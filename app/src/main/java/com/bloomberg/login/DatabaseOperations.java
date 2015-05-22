@@ -7,7 +7,7 @@ import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
 import android.util.Log;
 
-
+//added comments
 /**
  * Created by ajendrasharma on 08/02/15.
  */
